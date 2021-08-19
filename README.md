@@ -1,4 +1,4 @@
-##LPOO
+LPOO
 
 Linguagem de Programação Orientado a Objetos.
 
